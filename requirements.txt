@@ -1,0 +1,8 @@
+torch>=2.0
+numpy>=1.23
+pandas>=1.5
+scikit-learn>=1.2
+spikingjelly==0.0.0.0.14
+matplotlib>=3.6
+pytest>=7
+# TSB-AD metrics (VUS-PR, per-series window): pip install git+https://github.com/TheDatumOrg/TSB-AD.git
